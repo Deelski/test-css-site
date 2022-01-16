@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
 body {
-  background: url(forest.jpg) no-repeat center center fixed; 
+  background: url(forest.avif) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  
+  margin: 0;
 }
 .centered{
   
@@ -21,7 +21,7 @@ body {
 }
 
 .container {
-  margin: 15vh 0 15vh 0 ;
+  margin: 15vh 30vh 0 30vh;
   height: 300px;
   width: 300px;
   border: 2px solid transparent;
